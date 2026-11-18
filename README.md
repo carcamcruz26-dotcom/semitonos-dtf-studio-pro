@@ -4,11 +4,10 @@
 
 **Generador profesional de tramas de semitonos, eliminación de fondo ultrarrápida y texturas vintage a 300 DPI reales para impresión DTF.**
 
-[![Descargar v1.1.0](https://shields.io⬇️_DESCARGAR_PARA_WINDOWS-v1.1.0_Portable_(105_MB)-00c853?style=for-the-badge)](https://github.com)
+### [⬇️ DESCARGAR PARA WINDOWS — v1.1.0 Portable (105 MB)](https://github.com)
 
-![Plataforma](https://shields.ioPlataforma-Windows_10_%2F_11_(64--bit)-0078D6?style=flat-square)
-![Resolución](https://shields.ioCalidad-300_DPI_Reales-ff6d00?style=flat-square)
-![Modo](https://shields.ioInstalación-100%25_Portable_%2F_Offline-6200ea?style=flat-square)
+**Plataforma:** Windows 10 / 11 (64-bit) &nbsp;|&nbsp; **Calidad:** 300 DPI Reales &nbsp;|&nbsp; **Instalación:** 100% Portable y Offline
+
 
 </div>
 
