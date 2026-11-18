@@ -4,10 +4,10 @@
 
 **Generador profesional de tramas de semitonos, eliminación de fondo ultrarrápida y texturas vintage a 300 DPI reales para impresión DTF.**
 
-### [⬇️ DESCARGAR PARA WINDOWS — v1.1.0 Portable (105 MB)](https://github.com)
+### [⬇️ DESCARGAR PARA WINDOWS — v1.1.0 Portable (105 MB)](https://github.com/carcamcruz26-dotcom/semitonos-dtf-studio-pro/releases/download/v1.1.0/Semitonos.DTF.Studio.Pro.1.1.0.exe)
+
 
 **Plataforma:** Windows 10 / 11 (64-bit) &nbsp;|&nbsp; **Calidad:** 300 DPI Reales &nbsp;|&nbsp; **Instalación:** 100% Portable y Offline
-
 
 </div>
 
@@ -33,7 +33,7 @@ Es una herramienta de escritorio diseñada específicamente para talleres de **i
 
 ## 📥 Cómo instalar y usar
 
-1. Haz clic en el botón verde **[⬇️ DESCARGAR PARA WINDOWS](https://github.com)** de arriba (o entra a la sección [Releases](https://github.com)).
+1. Haz clic en el enlace **[⬇️ DESCARGAR PARA WINDOWS — v1.1.0 Portable (105 MB)](https://github.com)** de arriba (o entra a la sección [Releases](https://github.com)).
 2. Ejecuta **`Semitonos.DTF.Studio.Pro.1.1.0.exe`** con doble clic.
    *(Nota: Si Windows SmartScreen muestra un aviso por ser una aplicación nueva, haz clic en **"Más información"** y luego en **"Ejecutar de todas formas"**).*
 3. Carga tu diseño, ajusta el tamaño de celda, aplica textura o recorte si lo deseas y exporta tu PNG a 300 DPI.
